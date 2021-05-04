@@ -14,7 +14,7 @@ const Footer = () => {
         </p>
         <p className="text-light">
           <small>
-            <strong>Semana Spring React</strong>
+            <strong>Spring React Week</strong>
             <br />
             Event promoted by DevSuperior school:{" "}
             <a
